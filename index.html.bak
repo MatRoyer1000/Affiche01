@@ -105,10 +105,12 @@ if (markerFound == 1) {
 <!-- END: Add Image Target (marker) -->
 
 <!-- BEGIN: Unity Compiled Objects -->
-
-<a-box width="3.427536" height="0.01653999" depth="4.847515" src="textures/Affiche_Template-06.png" class="intersectable" position="1.01 0.005 -1.74" rotation="0 0 0" material="shader:standard; transparent: true" 
+<a-box width="1.0807" height="0.00039086" depth="0.8636431" src="textures/Brueghel.png" class="intersectable" position="0 0.052 -0.038" rotation="0 0 0" color="#FFFFFF" 
 ></a-box>
-
+<a-box width="3.427536" height="0.01653999" depth="4.847515" src="textures/Affiche_Template-06.png" class="intersectable" position="1.01 0.005 -1.74" rotation="0 0 0" color="#000000" 
+></a-box>
+<a-box width="2.1" height="0.0101338" depth="2.97" src="textures/Memling_MarieOmbre2.png" class="intersectable" position="-0.143 -0.005 -0.436" rotation="0 0 0" color="#FFFFFF" 
+></a-box>
 <!-- END: Unity Compiled Objects -->
 
 <!-- BEGIN: Bottom HTML -->
